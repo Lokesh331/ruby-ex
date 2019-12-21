@@ -241,6 +241,7 @@ pre {
           <hgroup>
             <h1>Welcome to your Ruby application on OpenShift</h1>
             <h1> Demo by  Lokesh </h1>
+            <h1> Demo by Vikram </h1>
             <h1> Successfully deployed the application </h1>
           </hgroup>
 
